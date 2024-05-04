@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* styling body tag */
+body{
+    background-color: rgb(245, 220, 210);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+
+/* styles div element */
+
+div{
+    padding: 12px;
+    margin: 2px;
+}
+
+/* styling button */
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+/* stylinh heading 1 and paragraph */
+h1, p{
+    text-align: center;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+
+
